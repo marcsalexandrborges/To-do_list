@@ -1,0 +1,22 @@
+/* Estilo para texto riscado */
+.task-done {
+    text-decoration: line-through;
+  }
+  
+  /* Estilo para a lista de tarefas */
+  #listaTarefas {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilo para os itens da lista */
+  li {
+    margin: 8px 0;
+  }
+  
+  /* Estilo para o botão Adicionar */
+  button {
+    margin-top: 8px;
+    cursor: pointer;
+  }
+  
